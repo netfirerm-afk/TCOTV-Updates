@@ -1,8 +1,8 @@
 {
   "packageName": "br.com.tcotv.player",
-  "versionCode": 56,
-  "versionName": "0.9.44",
-  "apkUrl": "https://github.com/netfirerm-afk/TCOTV-Updates/releases/download/v0.9.44/TCOTV.apk",
-  "sha256": "a909610b05c772fafab85d314b1f6797c2f3ef37efd9489c371869aa7733c9ed",
+  "versionCode": 57,
+  "versionName": "0.9.45",
+  "apkUrl": "https://github.com/netfirerm-afk/TCOTV-Updates/releases/download/v0.9.45/TCOTV.apk",
+  "sha256": "bf529451970b1542c25b4b65f8a345b12004f449d5dfb577fbfa76d943c25f45",
   "notes": "Atualização oficial assinada do TCOTV."
 }
