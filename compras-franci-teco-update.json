@@ -1,8 +1,8 @@
 {
   "packageName": "br.com.franciteco.compras",
-  "versionCode": 22,
-  "versionName": "1.10.5",
-  "apkUrl": "https://github.com/netfirerm-afk/TCOTV-Updates/releases/download/compras-v1.10.5/Compras-Franci-Teco.apk",
-  "sha256": "4bd7fa4d6f0c7353dd71a7508a4c992f59d9a7be0e01af9e71abfa61b930ed48",
+  "versionCode": 23,
+  "versionName": "1.10.6",
+  "apkUrl": "https://github.com/netfirerm-afk/TCOTV-Updates/releases/download/compras-v1.10.6/Compras-Franci-Teco.apk",
+  "sha256": "953ed771d9cc32a600d3a3268079245da89b6ae056a51d8784753b1c6a24ee5d",
   "notes": "Atualização oficial do Compras Franci Teco."
 }
